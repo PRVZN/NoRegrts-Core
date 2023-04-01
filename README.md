@@ -1,41 +1,16 @@
 ```                                                                                                                       
-     &&&&&                        &&&&&&&&&&&&&&&&&&&&&&&&     &&&&&&&&&&              &&&&&         /&&&&&&&&&&&&&&&&&           
-     &&&&&                        &&&&&&&&&&&&&&&&&&&&&&&&     &&&&  &&&&&             &&&&&       &&&&&&(        .&&&&&&*        
-     &&&&&                        &&&&&                        &&&&   &&&&&            &&&&&      &&&&/               &&&&&       
-     &&&&&                        &&&&&                        &&&&    &&&&&           &&&&&     &&&&&                 &&&&,      
-     &&&&&                        &&&&&                        &&&&     &&&&&          &&&&&     &&&&&                 &&&&&      
-     &&&&&                        &&&&&                        &&&&      &&&&&         &&&&&      &&&&&&                          
-     &&&&&                        &&&&&                        &&&&       &&&&%        &&&&&        &&&&&&&&&&&                   
-     &&&&&                        &&&&&&&&&&&&&&&&&&&&         &&&&        &&&&/       &&&&&             &&&&&&&&&&&&&&           
-     &&&&&                        &&&&&                        &&&&         &&&&*      &&&&&                     ,&&&&&&&&        
-     &&&&&                        &&&&&                        &&&&          &&&&      &&&&&                          (&&&&&      
-     &&&&&                        &&&&&                        &&&&           &&&&     &&&&&    &&&&&                   &&&&      
-     &&&&&                        &&&&&                        &&&&            &&&&    &&&&&     &&&&                   &&&&      
-     &&&&&                        &&&&&                        &&&&            *&&&&   &&&&&     /&&&&&                &&&&&      
-     &&&&&&&&&&&&&&&&&&&&&&&&&    &&&&&&&&&&&&&&&&&&&&&&&&     &&&&             (&&&&  &&&&&       &&&&&&&         &&&&&&&        
-     &&&&&&&&&&&&&&&&&&&&&&&&&    &&&&&&&&&&&&&&&&&&&&&&&&     &&&&              %&&&&&&&&&&          &&&&&&&&&&&&&&&&&,          
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-
-                  _( )_      _                  wWWWw   _                        _( )_      _                  wWWWw   _       
-      @@@@       (_   _)    ( )     _     @@@@  (___) _( )_          @@@@       (_   _)    ( )     _     @@@@  (___) _( )_     
-     @@()@@ wWWWw  (_)\     ( )   _( )_  @@()@@   Y  (_   _)        @@()@@ wWWWw  (_)\     ( )   _( )_  @@()@@   Y  (_   _)    
-      @@@@  (___)      |/   ( )  (_____)  @@@@   \|/   (_)\          @@@@  (___)      |/   ( )  (_____)  @@@@   \|/   (_)\      
-       /      Y       \|    (_)     |     \|      |/       |          /      Y       \|    (_)     |     \|      |/      |     
-    \ |      \|/       | / \ | /   \|/      |/    \       \|/      \ |      \|/       | / \ | /   \|/      |/    \       \|/   
-      |       |        |     |      |       |     |        |         |       |        |     |      |       |     |        |    
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-   _//|\_     |        |\ _//|\_   /|\      |\_   |\___    |\     _//|\_     |        |\ _//|\_   /|\      |\_   |\___    |\   
-      | \_/  / \__    / \_   |        \   _/      |       _|         | \_/  / \__    / \_   |        \   _/      |       _|    
-     /|\_  _/       _/\       \__     /\_        / \_      |_       /|\_  _/       _/\       \__     /\_        / \_      |_    
-    / |     |        \___      \_     /\         \        /        / |     |        \___      \_     /\         \        /                         
-
+  _   _    U  ___ u       ____   U _____ u  ____    ____     _____  ____     
+ | \ |"|    \/"_ \/    U |  _"\ u\| ___"|U /"___|U |  _"\ u |_ " _|/ __"| u  
+<|  \| |>   | | | |     \| |_) |/ |  _|" \| |  _ /\| |_) |/   | | <\___ \/   
+U| |\  |.-,_| |_| |      |  _ <   | |___  | |_| |  |  _ <    /| |\ u___) |   
+ |_| \_| \_)-\___/       |_| \_\  |_____|  \____|  |_| \_\  u |_|U |____/>>  
+ ||   \\,-.   \\         //   \\_ <<   >>  _)(|_   //   \\_ _// \\_ )(  (__) 
+ (_")  (_/   (__)       (__)  (__(__) (__)(__)__) (__)  (__(__) (__(__)     
 ```
 
-# Lens Protocol
+# No Regrts Core
 
-The Lens Protocol is a decentralized, non-custodial social graph. Lens implements unique, on-chain social interaction mechanisms analogous to commonly understood Web2 social media interactions, but significantly expanded with unique functionality that empower communities to form and participants to own their own social graph.
+The No Regrts Platform is a decentralized, non-custodial social graph. It implements unique, on-chain social interaction mechanisms analogous to commonly understood Web2 social media interactions, but significantly expanded with unique functionality that empower communities to form and participants to own their own social graph.
 
 ## Setup
 
@@ -83,7 +58,7 @@ USERID=$UID docker-compose down
 
 ## Protocol Overview
 
-The Lens Protocol transfers ownership of social graphs to the participants of that graph themselves. This is achieved by creating direct links between `profiles` and their `followers`, while allowing fine-grained control of additional logic, including monetization, to be executed during those interactions on a profile-by-profile basis.
+The No Regrts Platform transfers ownership of social graphs to the participants of that graph themselves. This is achieved by creating direct links between `profiles` and their `followers`, while allowing fine-grained control of additional logic, including monetization, to be executed during those interactions on a profile-by-profile basis.
 
 Here's how it works...
 
